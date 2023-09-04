@@ -47,5 +47,5 @@
 
 🔗Connect
 -------------------------------------
-- LinkedIn: https://www.linkedin.com/in/justin-wang-a00164224/
+- LinkedIn: https://www.linkedin.com/in/justinwang0107/
 - Telegram: https://t.me/Justin_W47
