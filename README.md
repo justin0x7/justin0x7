@@ -4,40 +4,17 @@
 
 ### Hi there 👋
 
-👨‍💻About Me
+👍Summary
 -------------------------------------
-- Reverse Engineer
-- Internet Security Engineer
-- Blockchain Developer
+- With 7 years of experience in software development and engineering, I have a proven track record of delivering high-quality solutions that meet business requirements while adhering to best practices and industry standards.
+- Seeking a challenging role in a dynamic organization where I can leverage my skills and experience to drive business success.
 
-⚡Skills
--------------------------------------
-- Reverse Engineering & Internet Security Engineering
-  - C/C++, Assembly, Golang, Python
-- Blockchain Development
-  - Rust, Solidity, Web3js
-  - NFT, DEFI, DEX, Trading
-  - Bitcoin, Etherum, Solana, Binance
-  
-🚀Employment History
+🏆Projects & Role.
 -------------------------------------
 - CTO at BPL LLC
 - CTO at CloudNexus
 - Project Manager at NearNauts, <a href="https://github.com/nearnautnft" target="_blank">click here</a>
 - Fullstack Developer at FNSGoose, <a href="https://github.com/fnsgoose" target="_blank">click here</a>
-
-💯Projects
--------------------------------------
-- Reverse Engineering & Internet Security Engineering
-  - BPL Reverse Proxy
-  - Evilginx3
-  - Anti VPN
-  - Anti Proxy
-  - CloudNexus
-- Blockchain Development
-  - NearNauts NFT
-  - AstroMarket
-  - Trading Bots
     
 ☎️Contact Me
 -------------------------------------
