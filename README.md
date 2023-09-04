@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/LrX5TcV/home1.png" align="center" style="width: 100%" />
 </div>  
 
-### Hi there 👋 I am a Justin Wang.
+### Hi there 👋 I am Justin Wang.
 - Blockchain Developer
 - Fullstack Developer
 - DevOps
