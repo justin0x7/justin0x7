@@ -14,19 +14,14 @@
 
 👍Reference
 -------------------------------------
-@ Toby Meller(Founder at Redkite)
-
-https://www.linkedin.com/in/toby-meller-84a3744a/
-
-Telegram:  https://t.me/toby_meller
-
-@ Steve(Founder at WIM | Galleon)
-
-https://www.linkedin.com/in/steve-m-5b824/
-
-+1 650 224 1852   &   +34 665 53 54 38
-
-stevemasch@gmail.com
+- Toby Meller(Founder at Redkite)
+ - https://www.linkedin.com/in/toby-meller-84a3744a/
+ - Telegram:  https://t.me/toby_meller
+ - 
+- Steve(Founder at WIM | Galleon)
+ - https://www.linkedin.com/in/steve-m-5b824/
+ - +1 650 224 1852   &   +34 665 53 54 38
+ - stevemasch@gmail.com
 
 🏆Portfolio
 -------------------------------------
