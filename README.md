@@ -12,6 +12,17 @@
 - With 7 years of experience in software development and engineering, I have a proven track record of delivering high-quality solutions that meet business requirements while adhering to best practices and industry standards.
 - Seeking a challenging role in a dynamic organization where I can leverage my skills and experience to drive business success.
 
+👍Reference
+-------------------------------------
+@ Toby Meller(Founder at Redkite)
+https://www.linkedin.com/in/toby-meller-84a3744a/
+Telegram:  https://t.me/toby_meller
+
+@ Steve(Founder at WIM | Galleon)
+https://www.linkedin.com/in/steve-m-5b824/
++1 650 224 1852   &   +34 665 53 54 38
+stevemasch@gmail.com
+
 🏆Portfolio
 -------------------------------------
 - 🔒Blockchain & Web3
