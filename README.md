@@ -42,9 +42,6 @@
       - Github: https://github.com/nearnautnft
       - Product [NFT]: https://twitter.com/NEARNauts
       - Stack: Rust + TypeScript + Nextjs + Nestjs
-    - Solidity Developer at WoofLabs
-      - Github: https://github.com/WoofLabs
-      - Stack: Solidity + TypeScript + Reactjs + Web3js
     - Solidity Developer(AI) at WIM & Galleon
       - Github: https://github.com/WIM3
       - Stack: Solidity + Python + Reactjs + Web3js
