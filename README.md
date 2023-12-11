@@ -58,5 +58,4 @@
 
 🔗Connect
 -------------------------------------
-- LinkedIn: https://www.linkedin.com/in/justinwang0107/
 - Telegram: https://t.me/Justin_W47 || https://t.me/arctichunter0
