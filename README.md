@@ -14,7 +14,7 @@
 
 👍Reference
 -------------------------------------
- - Toby Meller(Co-Founder at Redkite)
+ - Toby Meller(CEO at Redkite)
       - https://www.linkedin.com/in/toby-meller-84a3744a
       - Telegram:  https://t.me/toby_meller
 
