@@ -17,7 +17,9 @@
  - Toby Meller(CEO at Redkite)
       - https://www.linkedin.com/in/toby-meller-84a3744a
       - Telegram:  https://t.me/toby_meller
-
+ - Faisal Alferdos(Founder at Sahim)
+      - https://www.linkedin.com/in/alferdos/
+      - whatsapp: +966544111169
 
 
 🏆Portfolio
