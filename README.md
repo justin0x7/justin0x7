@@ -20,7 +20,10 @@
  - Faisal Alferdos(Founder at Sahim)
       - https://www.linkedin.com/in/alferdos/
       - whatsapp: +966544111169
-
+ - Steve Mariani(Founder at WIM3 | Galleon)
+      - https://www.linkedin.com/in/steve-m-5b824/
+      - +1 650 224 1852   &   +34 665 53 54 38
+      - stevemasch@gmail.com
 
 🏆Portfolio
 -------------------------------------
