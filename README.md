@@ -20,6 +20,7 @@
  - Faisal Alferdos(Founder at Sahim)
       - https://www.linkedin.com/in/alferdos/
       - whatsapp: +966544111169
+      - faisal@nearmotion.com
 
 🏆Portfolio
 -------------------------------------
